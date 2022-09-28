@@ -24,7 +24,7 @@
 
    b. [**Start customizing**](#b-open-the-code-and-start-customizing)
 
-   c. [**Learn more**](#c-learn-more)
+   c. [**Helpful Links**](#c-helpful-links)
 
 2. ### [To the Internet!](#🚀-to-the-internet)
 
@@ -100,13 +100,47 @@
 
   <img alt="VS Code 1" src="mdimg/vsc-1.png" />
 
-  xv.
+  xv. Press the three dots button on the top left of the window to open a dropdown.
 
-  xix. Open the terminal.
+  <img alt="VS Code 6" src="mdimg/vsc-6.png" />
+
+  xvi. Select <kbd>Remote</kbd> in the dropdown.
+
+  <img alt="VS Code 7" src="mdimg/vsc-7.png" />
+
+  xvii. Select <kbd>Add Remote...</kbd> in the dropright.
+
+  <img alt="VS Code 8" src="mdimg/vsc-8.png" />
+
+  xviii. In the pop-up textbox, paste the link you copied in step <code>v</code>.
+
+  <img alt="VS Code 9" src="mdimg/vsc-9.png" />
+
+  xix. In the next pop-up textbox, type in a one-word nickname for your project.
+
+  <img alt="VS Code 10" src="mdimg/vsc-10.png" />
+
+  xx. Once again, press the three dots button on the top left of the window to open a dropdown.
+
+  <img alt="VS Code 6" src="mdimg/vsc-6.png">
+
+  xxi. In the dropdown, select <kbd>Pull, Push</kbd>.
+
+  <img alt="VS Code 13" src="mdimg/vsc-13.png" />
+
+  xxii. Select <kbd>Pull</kbd> in the dropleft.
+
+  <img alt="VS Code 11" src="mdimg/vsc-11.png" />
+
+  xxiii. Select the nickname you chose from the options. (Mine was <code>wdc</code>.)
+
+  <img alt="VS Code 12" src="mdimg/vsc-12.png" />
+
+  xxiv. Open the terminal.
 
   <img alt="Terminal" src="mdimg/terminal.png" />
 
-  xv. Type <code>chmod 755 setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
+  xxv. Type <code>chmod 755 setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
 
   That's it!
 
@@ -134,19 +168,19 @@ Your site is now running at http://localhost:8000!
 
 Edit `src/pages/index.js` to see your site update in real-time!
 
-### c. Learn more
+### c. Helpful Links
 
-- [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (General link)
+- [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Everything)
 
 - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Beginners)
 
-- [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Specific examples)
+- [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Special cases)
 
 - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Advanced)
 
 - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Browse Plugins)
 
-- [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Handy)
+- [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (Very Handy)
 
 <hr />
 
@@ -179,6 +213,28 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 6. The pop-up window should close. Find your project's name and click <kbd>Import</kbd> next to it.
 
 <img alt="Gatsby Cloud 5" src="mdimg/gc-5.png" />
+
+7. Type your website's name in the textbox. If the name isn't taken, your website's url will be <code>WhatYouTyped.gtsb.io</code>. If it is, you can change it later in the settings.
+
+<img alt="Gatsby Cloud 6" src="mdimg/gc-6.png" />
+
+8. Click <kbd>Next</kbd> on the bottom left corner of the screen.
+
+<img alt="Gatsby Cloud 8" src="mdimg/gc-8.png" />
+
+9. Scroll down and press <kbd>Build Site</kbd> to launch your website.
+
+<img alt="Gatsby Cloud 7" src="mdimg/gc-7.png" />
+
+10. Scroll down on this page. Once you see this checkmark, your website is up and running! Congratulations!
+
+<img alt="Gatsby Cloud 9" src="mdimg/gc-9.png" />
+
+<hr />
+
+## 👑 Remember: Ask questions!
+
+If you have any questions or interesting ideas, we're here to help. [Email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org) and set up an in-person or zoom meeting.
 
 <hr />
 
@@ -239,7 +295,3 @@ Don't worry. We still love you.
 Just [email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org) to set up an in-person or zoom meeting.
 
 <hr />
-
-## 👑 Remember: Ask questions!
-
-If you have any questions or interesting ideas, we're here to help. [Email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org) and set up an in-person or zoom meeting.
