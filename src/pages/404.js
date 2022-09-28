@@ -52,3 +52,15 @@ export default function NotFoundPage() {
     </main>
   );
 }
+
+export function Head() {
+  return (
+    <>
+      <title>Page Not Found | Edit Your page's title here!</title>
+      <meta
+        name="description"
+        content="This page doesn't exist. Please visit our homepage."
+      />
+    </>
+  );
+}
