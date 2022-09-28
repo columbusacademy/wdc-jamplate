@@ -7,7 +7,7 @@
   WDC Website Template
 </h1>
 
-<p align="center">Have questions? <a href="mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org">Email us</a>.<p>
+<p align="center">Have questions? <a href="mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org">Email us</a> or visit <a href="https://cawdc.gtsb.io" target="_blank" rel="noreferrer nofollower noopener">our website</a>!<p>
 
 <p align="center">This is a quick template for making a website. Out of the box, it's fast, efficient, and secure. You can follow these steps and links or attend our club meetings to learn more.</p>
 
@@ -36,15 +36,15 @@
 
    d. [**Launch your website**]()
 
-3. ### [Personal Computer Setup](#personal-computer-setup)
+3. ### [Remember: Ask questions!](#👑-remember-ask-questions)
+
+4. ### [Personal Computer Setup](#💻-personal-computer-setup)
 
    - [**MacOS**](#macos)
 
    - [**Windows**](#windows)
 
    - [**Linux**](#linux)
-
-4. ### [Remember: Ask questions!](#remember-ask-questions)
 
 <hr />
 
@@ -234,7 +234,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 ## 👑 Remember: Ask questions!
 
-If you have any questions or interesting ideas, we're here to help. [Email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org) and set up an in-person or zoom meeting.
+If you have any questions or interesting ideas, we're here to help. [Email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org) and set up an in-person or zoom meeting. You can also visit [our website](https://cawdc.gtsb.io) for more resources!
 
 <hr />
 
