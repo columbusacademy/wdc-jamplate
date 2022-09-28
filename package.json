@@ -1,6 +1,6 @@
 {
   "name": "wdc-jamplate",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "private": true,
   "description": "JAMStack template website for WDC (Web Design Club).",
   "author": "askjag07",
@@ -47,7 +47,7 @@
   "devDependencies": {
     "gatsby-plugin-perf-budgets": "^0.0.18",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.27",
-    "npm-check-updates": "^16.3.2",
+    "npm-check-updates": "^16.3.3",
     "prettier": "^2.7.1"
   }
 }

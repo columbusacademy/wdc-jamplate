@@ -28,3 +28,12 @@ export default function IndexPage() {
     </main>
   );
 }
+
+export function Head() {
+  return (
+    <>
+      <title>Edit Your Page's Title! | It's easy.</title>;
+      <meta name="description" content="Edit your page's description here!" />
+    </>
+  );
+}
