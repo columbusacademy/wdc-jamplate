@@ -140,7 +140,14 @@
 
   <img alt="Terminal" src="mdimg/terminal.png" />
 
-  xxv. Type <code>chmod 755 setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
+  xxv. Type the following, replacing the placeholders in the quotes with your information and pressing <kbd>Enter</kbd> after each line.
+
+  ```bash
+  git config --global user.name "FIRST_NAME LAST_NAME"
+  git config --global user.email "YOUR_EMAIL"
+  ```
+
+  xxvi. Type <code>chmod 755 setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
 
   That's it!
 
@@ -272,7 +279,7 @@ If you have any questions or interesting ideas, we're here to help. [Email us](m
 
 - **Set up everything else**
 
-  1. Follow the [School Laptop](#school-laptop) instructions up to **xiv**.
+  1. Follow the [School Laptop](#school-laptop) instructions up to **xxv**.
 
   2. Type the following, pressing <kbd>Enter</kbd> after each line.
 
@@ -283,7 +290,6 @@ If you have any questions or interesting ideas, we're here to help. [Email us](m
          nvs link lts
          npm i -g npm npm-check-updates gatsby-cli
          npm i
-         echo "\n\nYou're welcome ;)\n"
      ```
 
   3. Next: [Open the code and start customizing!](#b-open-the-code-and-start-customizing)
